@@ -50,6 +50,14 @@ shipping.
 - Repeat customers
 - Average order value
 
+## Power BI Dashboard
+
+![E-Commerce Sales & Customer Insights Dashboard](screenshots/powerbi_dashboard.png)
+
+The interactive Power BI dashboard provides a high-level view of sales
+performance, customer activity, product performance, regional trends,
+and shipping metrics.
+
 ## Key Business Insights
 
 - 2018 generated the highest annual sales.
